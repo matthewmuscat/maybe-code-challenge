@@ -1,5 +1,7 @@
 # Code challenge: Frontend
 
+[View 1 hour demonstration video here](https://www.loom.com/share/39422ae0b79746e88c2a4e67db795c3a)
+
 ## Stack
 
 - Next.JS
